@@ -1,5 +1,53 @@
 
 
-body {
-    background-image: url(/képek/hatter.jpg);
+*{
+   font-family: Arial, Helvetica, sans-serif; 
+  
+   
+   
+}
+body{
+    margin: auto;
+    padding: 0;
+    align-items: center;
+    background-color:whitesmoke;
+    width: 1000px;
+    max-width: 1000px;
+}
+
+h1{
+    color: rgb(58, 188, 149);
+    margin-left: 45px;
+}
+nav{
+    background-color: rgb(58, 188, 149);
+    margin-bottom: 10px;
+    padding: 10px;
+
+}
+
+nav ul{
+    color: whitesmoke;
+    display: grid;
+    grid-template-columns: 0.2fr 0.3fr 0.3fr;
+}
+
+nav ul li{
+    list-style: none;
+    
+   
+}
+
+main{
+    width: 100%;
+    margin: 10px;
+    height: 550px;
+}
+.main_container{
+    display: grid;
+    grid-template-columns: 5fr 5fr;
+}
+
+.szoveg{
+    font-size: 12px;
 }
