@@ -112,12 +112,14 @@
     padding: 5px;
     border: solid 1px rgb(218, 218, 218);
     align-items: center;
+    margin-left: 50px;
  }
 
  .image_text_container p{
     font-size: 14px;
-    text-align: left;
+    text-align: justify;
     padding-left: 20px;
+    padding-right: 20px;
     
  }
 
@@ -127,5 +129,6 @@
     font-size: 16px;
     text-align: left;
     padding-left: 20px;
+    padding-right: 20px;
 
  }
