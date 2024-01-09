@@ -95,7 +95,7 @@
     box-sizing: border-box;
     display: grid;
     grid-template-columns: 1fr;
-    padding-bottom: 10px ;
+    padding-bottom: 0x ;
     border: solid 1px rgb(218, 218, 218);
     column-gap: 10px;
     margin-left: 30px;
