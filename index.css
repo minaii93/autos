@@ -46,6 +46,7 @@ main{
 .main_container{
     display: grid;
     grid-template-columns: 7fr 3fr;
+    column-gap: 100px;
 }
 
 .szoveg{
